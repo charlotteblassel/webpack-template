@@ -5,7 +5,7 @@
 - Extracted CSS
 - Transpilled JS (with Babel)
 - Sourcemaps
-- CLean dist
+- Clean dist
 - Dev server (with local network support)
 - Static files
 - Cache breaker
